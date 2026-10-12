@@ -9,7 +9,7 @@
 
 ---
 
-![Revive-DETR Framework](figure\model.png)
+![Revive-DETR Framework](figure/model.png)
 
 ## 📖 Introduction
 
