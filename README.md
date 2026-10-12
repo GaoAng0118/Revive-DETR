@@ -3,8 +3,8 @@
 [![Paper](https://img.shields.io/badge/BMVC-2026-blue)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-> **[Revive-DETR: Combatting Representation Collapse for Tiny Object Detection](#)**
-> Xin Feng, Ang Gao, Liu Cui, Yunlong Wang
+> **[Revive-DETR: Combatting Representation Collapse for Tiny Object Detection](#)** <br>
+> Xin Feng, Ang Gao, Liu Cui, Yunlong Wang <br>
 > *British Machine Vision Conference (BMVC), 2026* | [Paper Coming Soon]
 
 ---
